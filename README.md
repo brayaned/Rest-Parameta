@@ -1,4 +1,4 @@
-# 🌐 Microservicio REST – Empleados
+# Microservicio REST – Empleados
 
 Microservicio REST desarrollado en **Java con Spring Boot** encargado de **validar la información del empleado y orquestar la llamada a un servicio SOAP**.
 
